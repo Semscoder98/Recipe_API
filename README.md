@@ -13,7 +13,7 @@ dependencies:
 
 To run on local host
 
-1. git clone https://github.com/lurdray/recipe_api_x.git
+1. git clone https://github.com/Semscoder98/Recipe_API.git
 2. cd recipe_api_x
 3. source venv/bin/activate
 4. python3 manage.py makemigrations
